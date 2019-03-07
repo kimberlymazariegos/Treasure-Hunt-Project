@@ -1,0 +1,25 @@
+h1{color:purple;
+   background-color:#FF7F50;
+   font-size:50px;
+   }
+h2{font-size: 80px;
+    color:red;
+    font-family: 'Staatliches', cursive;}
+h3{font-size:50px;
+    background-color:#FF7F50; 
+    }
+h4{color:purple;
+   background-color:#FF7F50;
+   font-size:50px;
+   }
+h5{background-color:#FF7F50;
+   font-size:50px;
+   }
+button{background-color: #008CBA;
+        color:white;}
+body {
+    text-align: center;
+}
+#secretMessage1 {
+    color:white;
+}
